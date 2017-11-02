@@ -54,7 +54,6 @@
 	list[:5] 下标为5之前的元素 不包括5
 """
 
-
 import math
 
 def Merge(A, B):
